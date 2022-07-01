@@ -1,5 +1,5 @@
 ### Hey 👋
-### My discord -> Derias#0020
+<img src="https://i.imgur.com/Vl6IkLX.png" width="17" height="17">  Derias#0020
 
 <!--
 **Derias20/Derias20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
