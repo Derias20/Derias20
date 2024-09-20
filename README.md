@@ -1,5 +1,4 @@
 ### Hey 👋
-<img src="https://i.imgur.com/Vl6IkLX.png" width="17" height="17">   derias , please DM before sending friend request 🙏
 
 <!--
 **Derias20/Derias20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
